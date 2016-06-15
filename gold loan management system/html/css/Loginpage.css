@@ -1,0 +1,23 @@
+#loginpanel
+    {
+        
+        margin:0 auto;
+        width: 50%;
+         position: relative;
+        top:150px;
+        background-color: beige;
+        padding:20px;
+        border-radius: 30px;
+        
+    }
+
+#errormsg
+{
+   clear:both;
+    position: relative;
+    top:250px;
+}
+.hideerror
+{
+ display: none;
+}
